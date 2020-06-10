@@ -43,7 +43,11 @@ z-index: 0;
 {
     background-color:#512DA8;
 }
-#buton
+
+.tab-content
 {
-    padding: 10px 50px 10px 50px;
+    border-left:1px solid #ddd;
+    border-right:1px solid #ddd;
+    border-bottom:1px solid #ddd;
+    padding: 10px;
 }
